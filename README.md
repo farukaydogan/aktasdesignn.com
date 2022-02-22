@@ -1,2 +1,2 @@
 # aktasdesignn.com
-[LIVE DEMO](https://www.aktasdesignn.com)
+[LIVE DEMO] http://www.aktasdesignn.com
