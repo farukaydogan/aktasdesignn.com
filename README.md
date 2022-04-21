@@ -6,4 +6,4 @@ Google Api Google Translate
 PhpMailer
 TinySlider Wow.js
 
-[LIVE DEMO](http://www.aktasdesignn.com)
+[LIVE](http://www.aktasdesignn.com)
